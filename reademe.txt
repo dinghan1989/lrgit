@@ -3,9 +3,4 @@ free
 modify again
 hello
 change file again
-<<<<<<< HEAD
 creating a new branch is quick and simple
-=======
-creating a new branch is quick and sumple.
-
->>>>>>> featurel
