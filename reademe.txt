@@ -4,3 +4,4 @@ modify again
 hello
 change file again
 creating a new branch is quick and simple
+new line
